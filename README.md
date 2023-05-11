@@ -1,6 +1,6 @@
 # Hoopty Freeze
 
-Window unit AC front bezle replacement that allows intake and filter to be placed wherever.
+Window unit AC front bezel replacement that allows intake and filter to be placed wherever.
 
 Could be adapted to:
 
